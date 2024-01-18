@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       {/* <Profile name="Bernardo" lastname="Salgueiro"/> */}
-      <Message content="This is a class component"></Message>
+      <Message content="This is an automatic potato."></Message>
     </div>
   );
 }
